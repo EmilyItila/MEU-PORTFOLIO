@@ -55,4 +55,4 @@ Atuar na área de Suporte Técnico ou Help Desk, contribuindo para a resolução
 ## Contato
 
  Email: emilyitila1@gmail.com  
-LinkedIn: www.linkedin.com/in/emily-itila-a8134a266
+LinkedIn: www.linkedin.com/in/emily-itila
