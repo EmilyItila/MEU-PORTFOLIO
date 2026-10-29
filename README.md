@@ -1,8 +1,10 @@
-# Portfólio - Emily Ítila
+# Portfólio | Emily Ítila
 
-Profissional de TI em formação com foco em Suporte Técnico, Help Desk e atendimento ao usuário.
+**Estudante de Análise e Desenvolvimento de Sistemas | Técnica em Informática**
 
----
+Profissional de TI em formação, com interesse em Suporte Técnico, Help Desk, Infraestrutura e Desenvolvimento de Sistemas. Possuo conhecimentos em tecnologia, lógica de programação e criação de projetos, além de interesse em resolução de problemas, atendimento ao usuário e aprendizado contínuo.
+
+Este portfólio reúne meus projetos acadêmicos e práticos, demonstrando minhas habilidades técnicas, organização e dedicação ao desenvolvimento profissional na área de Tecnologia da Informação.
 
 ## Projetos
 
@@ -35,22 +37,21 @@ Aplicação de conhecimentos de desenvolvimento web.
 Tecnologias: HTML • CSS • JavaScript
 ---
 
-## Habilidades
+## Habilidades Técnicas
 
-- Suporte Técnico (Hardware e Software)
-- Excel (Dashboards e análise de dados)
-- HTML & CSS
-- Office 365 / Microsoft Teams
-- Conceitos de Redes
-- Atendimento ao Usuário
-
----
-
-## Objetivo
-
-Atuar na área de Suporte Técnico ou Help Desk, contribuindo para a resolução eficiente de problemas e melhoria da experiência do usuário.
+- **Suporte Técnico:** conhecimentos em hardware, software e identificação de problemas técnicos.
+- **Sistemas e Ferramentas:** Microsoft 365, Excel, Microsoft Teams e ferramentas de produtividade.
+- **Desenvolvimento Web:** conhecimentos em HTML e CSS.
+- **Análise de Dados:** criação de planilhas, organização de informações e desenvolvimento de dashboards em Excel.
+- **Redes de Computadores:** conhecimentos básicos em conceitos de redes e conectividade.
+- **Atendimento ao Usuário:** comunicação, orientação ao usuário e busca por soluções para problemas técnicos.
+- **Desenvolvimento de Sistemas:** conhecimentos adquiridos durante a formação em Análise e Desenvolvimento de Sistemas, com aplicação em projetos acadêmicos e práticos.
 
 ---
+
+## Objetivo Profissional
+
+Busco uma oportunidade na área de Tecnologia da Informação, com foco em Suporte Técnico, Help Desk ou Desenvolvimento de Sistemas, para aplicar meus conhecimentos, contribuir para a resolução de problemas, oferecer suporte aos usuários e continuar desenvolvendo minhas habilidades técnicas e profissionais.
 
 ## Contato
 
