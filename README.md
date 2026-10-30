@@ -22,17 +22,19 @@ Documentação com soluções práticas para problemas comuns em ambiente corpor
  
 
 ### Site Institucional — Mundo da Tia Ana
-Projeto de Extensão Acadêmica
+
+**Projeto de Extensão Acadêmica**
 
 Desenvolvimento de um site institucional para centralizar informações, facilitar a comunicação com pais e responsáveis e ampliar a presença digital da instituição.
 
-O que desenvolvi:
+**O que desenvolvi:**
+- Estruturação e organização do site institucional;
+- Organização e divulgação de informações sobre serviços, atividades e eventos;
+- Implementação de formas de contato e formulários on-line;
+- Aplicação de conhecimentos de desenvolvimento web;
+- Integração e utilização do Google Analytics para monitorar os acessos ao site, acompanhar visualizações de páginas e analisar o alcance da plataforma.
 
-Estruturação do site;
-Organização das informações;
-Divulgação dos serviços e atividades;
-Formas de contato;
-Aplicação de conhecimentos de desenvolvimento web.
+**Objetivo:** Facilitar o acesso às informações da instituição, melhorar a comunicação com pais e responsáveis e acompanhar o desempenho do site por meio de métricas de acesso.
 
 Tecnologias: HTML • CSS • JavaScript
 ---
